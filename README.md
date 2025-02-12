@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3d8e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3d8e&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I+am+João+Victor+Olivo;Systems+Development+Student+at+Sesi;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3d8e&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋+I+am+João+Victor+Olivo;Systems+Development+Student+at+Sesi;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
 # 🛠️ My Stack
@@ -33,6 +33,13 @@
 
 ## 📚 About me
 🎓 I am a passionate software developer actively exploring the world of technology. Completed Professionalizing Fullstack Web Development course, Studying Systems Development at Sesi, SENAI.
+
+
+## 📑 Projects
+- [Melodify (FrontEnd)](https://github.com/joaoxn/melodify)
+- [Melodify (BackEnd)](https://github.com/joaoxn/melodify-backend)
+- [TrainSys](https://github.com/joaoxn/TrainSys)
+- [LabPCP (BackEnd)](https://github.com/joaoxn/labpcp-backend)
 
 
 ## 📈 My Statistics
