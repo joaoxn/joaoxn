@@ -45,9 +45,10 @@
 
 ## 📈 My Statistics
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoxn&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxn&layout=compact&theme=radical)](https://github.com/joaoxn)
+<div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoxn&show_icons=true&theme=radical" alt="Matheus Maia Alvarez github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxn&layout=compact&theme=radical" />
+</div>
 
 ---
 
